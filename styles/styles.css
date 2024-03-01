@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Archivo Black');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Gilda Display');
+
+@import url('https://fonts.googleapis.com/css?family=Hedvig Letters Serif');
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+.nav{
+    font-family: 'Archivo Black';
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+.main{
+    background-color: rgb(36, 190, 190);
+   
+}
+
+.click{
+    background-color: yellow;
+    border-radius: none;
+    /* font-family: 'Gilda Display'; */
+    font-family:'Hedvig Letters Serif' !important ;
+    
+}
+
+.section2{
+    background-color: rgba(32, 163, 163, 0.918); 
+    
+}
+.images{
+    height: 250px;
+    width: 662px;
+}
+
+
+.about{
+    font-family:' Anton';
+    font-size: 70px;
+}
+
+.place{
+    font-family: 'Archivo Black';
+    font-size:70px ;
+}
+.color{
+    color: yellow;
+}
+.para{
+    font-family: 'Lato';
+    font-size: 25px;
+}
+
+.section3{
+    background-color:rgba(6, 51, 51, 0.918);
+}
+.package{
+    font-family: 'Oswald';
+    font-size: 70px;
+
+}
+.para1{
+    font-family: 'Lato';
+    font-size: 22px;
+
+}
+
+.para2{
+    padding-left:20px ;
+    padding-right: 20px;
+    text-align: center;
+
+}
+
+
+.seasons{
+    font-family:' Anton';
+    font-size: 33px;
+    color: rgba(6, 51, 51, 0.918);
+
+}
+.seasons1{
+    font-family:' Anton';
+    font-size: 42px;
+    color: rgba(6, 51, 51, 0.918);
+
+}
+
+.seasons2{
+    font-family:' Anton';
+    font-size: 42px;
+    color: rgba(6, 51, 51, 0.918);
+
+}
+
+.images3{
+    height: 828px;
+
+}
+
+.images4{
+    height: 828px;
+    width: auto;
+
+}
+
+.inquires{
+    font-family: 'Archivo Black';
+    font-size: 20px;
+    text-align: center;
+    color:  rgba(20, 114, 114, 0.918); 
+   
+}
+.card-body{
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+    
+.last-section{
+    background-color:  rgba(32, 163, 163, 0.918);
+
+ 
+}
+.last-images{
+    height:300px ;
+    width:320px ;
+
+}
+.news{
+    font-size:45px ;
+
+}
+.card-name{
+    position: absolute !important;
+   
+   right: 70px;
+   margin-top: 30px;
+}
+.last-header{
+    font-size: 90px;
+}
+
+.end{
+    background-color: yellow;
+}
+
+.address{
+    /* font-family:' Anton'; */
+    font-family: 'Oswald';
+    font-size: 30px;
+    color:rgba(4, 49, 49, 0.945); 
+}
+.section4{
+    margin: 0px;
+
+}
+
+
+
+
+
+
